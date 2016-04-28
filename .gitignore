@@ -17,3 +17,8 @@
 
 # Ignore ruby-version
 /.ruby-version
+
+## Environment normalization:
+/.bundle
+/vendor/bundle
+/vendor/bin
