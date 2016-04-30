@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: planna_dev
+  database: ruby-getting-started_dev
   username: psql_admin
   password:
   host: localhost
